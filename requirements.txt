@@ -1,0 +1,4 @@
+agno>=1.7.0
+streamlit>=1.37.0
+elevenlabs>=2.6.0
+firecrawl-py>=2.14.0
